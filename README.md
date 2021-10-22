@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on Php/Symfony
-- :dart: my goal: to improve my skills in other technologies
+- :dart: my goal: to improve my skills in other technologies and improve github stats
 - :office: I’m looking to collaborate with a team of passionate developpers
 - 📫 How to reach me: veroniqueauzias@gmail.com
 - :cookie: My cookies policy : I make delicious ones that I can bring to work
@@ -23,8 +23,10 @@
 ![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=Composer&logoColor=white&color=51F4F2)
 ![](https://img.shields.io/badge/Tools-Chart_JS-informational?style=flat&logo=javascript&logoColor=white&color=51F4F2)
 
+[![Mes stats github](https://github-readme-stats.vercel.app/api?username=veroniqueauzias&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/veroniqueauzias/github-readme-stats)
 
-<!--?logo=data:image/png;base64,…
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroniqueauzias&layout=compact)](https://github.com/veroniqueauzias/github-readme-stats)
+<!--
 **veroniqueauzias/veroniqueauzias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
