@@ -3,7 +3,7 @@
 <img src="https://github.com/veroniqueauzias/veroniqueauzias/blob/master/img/banner.jpeg" width="100%" height="150" alt="banner">
 
 
-### Hi there 👋
+### Hello world! 👋
 - 🔭 I’m currently working on Php/Symfony
 - :dart: my goal: to improve my skills in other technologies and improve github stats
 - :office: I’m looking to collaborate with a team of passionate developpers
