@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Tools-Chart_JS-informational?style=plastic&logo=javascript&logoColor=white&color=51F4F2)
 
 ### :bar_chart: Statistics
-[![Mes stats github](https://github-readme-stats.vercel.app/api?username=veroniqueauzias&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/veroniqueauzias/github-readme-stats)
+[![Mes stats github](https://github-readme-stats.vercel.app/api?username=veroniqueauzias&hide=issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/veroniqueauzias/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroniqueauzias&layout=compact)](https://github.com/veroniqueauzias/github-readme-stats)
 <!--
